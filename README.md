@@ -11,6 +11,8 @@ Algoritma dan Pemrograman Lanjutan.
 - Pengolahan nilai
 - Faktorial dan Fibonacci (rekursif)
 
-## Cara Compile & Jalankan
+## Cara Compile
 gcc main.c -o nilai
+
+## Cara Menjalankan
 ./nilai
